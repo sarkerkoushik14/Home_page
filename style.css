@@ -1,0 +1,419 @@
+/* 
+  
+  .pad-40{
+    padding: 10px;
+  }
+
+  
+  
+  .navbar a {
+    text-align: center;
+    font-size: 16px;
+    color: #050B00;
+    text-decoration: none;
+  }
+  
+  .dropdown {
+    float: left;
+    
+  }
+  
+  .dropdown .dropbtn {
+    cursor: pointer;
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+ 
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  .show {
+    display: block;
+  }
+  .search_bar {
+    top: 32px;
+    left: 451px;
+    width: 759px;
+    height: 40px;
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+    border: 1px solid #E4E4E4;
+    opacity: 1;
+    margin-top: 20px;
+
+    }
+
+.search_img{
+  top: 32px;
+  left: 1281px;
+  width: 31px;
+  height: 80px;
+  color: #050B00;
+  padding: 2px;
+}
+.e_academy_logo{
+  width: 20%;
+  height: 75px;
+  margin-bottom: 0;
+  opacity: 1;
+}
+
+.mt-20{
+  margin-top: 20px;
+}
+.shopping_img{
+  top: 32px;
+  left: 1281px;
+  width: 24px;
+  height: 24px;
+  color: #050B00;
+  padding: 6px;
+  margin-top: 20px
+}
+.login_btn{
+  width: 117px;
+  height: 40px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #090B71;
+  opacity: 1;
+  letter-spacing: 3px;
+  color: #090B71;
+  opacity: 1;
+  margin-top: 20px;
+}
+.sign_btn{
+  width: 117px;
+  height: 40px;
+  background: #090B71 0% 0% no-repeat padding-box;
+  opacity: 1;
+  letter-spacing: 3px;
+  color: #FFFFFF;
+  opacity: 1;
+  margin-top: 20px;
+}
+.mr-35{
+  margin-right: 35%;
+}
+
+.discovery{
+  width: 80%;
+  margin-top: 20%;
+  margin-left: 21%;
+
+}
+.big_girl_img{
+  width: auto;
+  height: 500px;
+  opacity: 1;
+  margin-top: 6%;
+}
+.explore-btn{
+  width: 117px;
+  height: 40px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid black;
+  opacity: 1;
+  letter-spacing: 3px;
+  color: #090B71;
+  opacity: 1;
+  margin-top: 20px;
+  border-radius: 3px;
+}
+.headphone_guy{
+  width: auto;
+  height: 505px;
+  opacity: 1;
+  margin-top: 15%;
+  margin-left: 6%;
+}
+.Knowmore-btn{
+  width: 133px;
+  height: 40px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid black;
+  opacity: 1;
+  color: #090B71;
+  opacity: 1;
+  margin-top: 35px;
+  border-radius: 3px;
+}
+.leading{
+  width: 84%;
+  margin-top: 20%;
+}
+
+.popular{
+  margin-top: 5%;
+  margin-left: 5%;
+}
+.mt-30 {
+  margin-top: 30%;
+}
+.ml-50{
+  margin-left: 50%;
+}
+.pd-12{
+  padding: 12px;
+}
+.slider-img{
+  width: 300px;
+  margin-top: 6%;
+  height: 450px;
+  border-color: 1px solid #707070;
+}
+.star5{
+  width: 100%;
+  height: 100%;
+}
+.dollar-amt{
+  width: 170px;
+  height: 40px;
+  background: #090B71 0% 0% no-repeat padding-box;
+  opacity: 1;
+  letter-spacing: 3px;
+  color: #FFFFFF;
+  opacity: 1;
+  margin-top: 30px;
+  border-radius: 25px;
+}
+.blue-section{
+  top: 2666px;
+left: 0px;
+width: 1320px;
+height: 250px;
+background: #090B71 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.mt-100{
+  margin-top: 100px;
+}
+.media{
+  border-radius: 50%;
+  background-color: #F7F7F7;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #090B71;
+}        
+
+
+
+.blue-section1{
+
+width: 1320px;
+height: 250px;
+background: #090B71;
+opacity: 1;
+padding-left: 10%;
+
+}
+.big_girl_boy_img{
+  width: 100%;
+  padding-right: 13%;
+  margin-top: 11px;
+}
+.hammer_img{
+  width: 80%;
+    height: 300px;
+    margin-left: 52px;
+    opacity: 1;
+    margin-top: 6%;
+}
+.owl-carousel{
+  margin-bottom: 100px;
+}
+.Book-img{
+  width: 50%;
+  height: auto;
+  opacity: 1;
+  padding-top: 4%;
+}
+.blue-section2{
+
+  width: 1320px;
+  height: 500px;
+  background: #090B71;
+  opacity: 1;
+  padding-left: 10%;
+  
+  }
+  input[type=text] {
+    width: 78%;
+    margin-bottom: 20px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  label {
+    margin-bottom: 10px;
+    display: block;
+  }
+     */
+.border-color{
+  border: 1px solid #090B71;
+  text-decoration: #090B71;
+}
+/* img{
+  width: 100%;
+  max-width: 200px;
+  object-fit: cover;
+  vertical-align: middle;
+} */
+.wrapper{
+  padding: 0 15px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  gap: 5rem;
+}
+.intro{
+  flex: 1;
+}
+.discovery{
+  width: 100%;
+  max-width: 600px;
+  object-fit: cover;
+  vertical-align: middle;
+}
+.library_img{
+  width: 100%;
+  max-width: 490px;
+  object-fit: cover;
+  vertical-align: middle;
+  padding-left: 5%;
+}
+.mt-100{
+  margin-top: 100px;
+}
+.mt-10{
+  margin-top: 10px;
+}
+.mt-25{
+  margin-top: 25px;
+}
+.bg-F7F7F7{
+  background-color: #F7F7F7;
+}
+.bg-090B71{
+  background-color: #090B71;
+}
+.red-color{
+  color: #FF494D;
+}
+.explore-btn1{
+
+  width: 176px;
+  height: 39px;
+  border: 1px solid #FFFFFF;
+  opacity: 1;
+  background-color: black;
+  color: white;
+}
+.black-area{
+  background-color: black;
+  width: 100%;
+  height: 305px;
+}
+.border-white{
+  border: 1px solid #fff;
+}
+.Become-a-member{
+  width: 250px;
+    height: 40px;
+    background: #090B71 0% 0% no-repeat padding-box;
+    letter-spacing: 3px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 20px;
+    border: 1px solid white;
+}
+/* .search-bar {
+  max-width: 500px;
+  margin: auto auto;
+}
+
+.search-bar .input-group {
+  
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  width: 851px;
+
+background-color: #E4E4E4;
+}
+
+.search-bar .form-control {
+  border: none;
+  padding-left: 20px;
+  background-color: #E4E4E4;
+}
+
+.search-bar .btn {
+  border: none;
+  padding: 10px 20px;
+} */
+.search-bar {
+  
+  margin: auto auto;
+}
+
+.input-group {
+  width: 500px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  background-color: #E4E4E4;
+}
+
+.search-bar .form-control {
+  border: none;
+  padding-left: 20px;
+  background-color: #E4E4E4;
+}
+
+.search-bar .btn {
+  border: none;
+  padding: 10px 20px;
+}
+
+  .red_images {
+    border-radius: 50%;
+    border: 1px solid #090B70;
+    width: 235px;
+    height: 218px;
+    
+
+
+
+}
+.red_images img{
+  width: 70%;
+  height: 70%;
+  
+
+}

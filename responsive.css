@@ -1,0 +1,28 @@
+@media only screen and (max-width:667px) {
+   
+      .search_bar{
+        margin-top: 20px;
+      }
+      .mtr-30{
+        margin-top: 30px;
+      }
+      .mtr-20{
+        margin-top: 20px;
+      }
+      .explore-btn1{
+        width: 176px;
+        height: 49px;
+        opacity: 1;
+        background-color: #090B71;
+        color: white;
+        border-radius: 100px;
+      }
+      .pbr-5{
+        padding-bottom: 5px;
+      }
+      .mlr-40{
+        margin-left: 40px;
+      }
+   
+    
+}
